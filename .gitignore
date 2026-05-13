@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+<<<<<<< HEAD
+models/*.pth
+chroma/
+.streamlit/secrets.toml
+=======
+chroma/
+>>>>>>> 568ab55a1f0b21c55ce232ecbcf01409cc68248a

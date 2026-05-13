@@ -1,0 +1,50 @@
+[
+  {
+    "label": "resume",
+    "text": "education experience technical skills projects internship software developer python java github leadership coursework"
+  },
+  {
+    "label": "resume",
+    "text": "work experience projects programming languages frameworks certifications objective professional summary"
+  },
+  {
+    "label": "resume",
+    "text": "software engineer resume skills experience education projects machine learning backend frontend"
+  },
+  {
+    "label": "lecture_notes",
+    "text": "lecture chapter notes professor exam concept definition theorem example study material class discussion"
+  },
+  {
+    "label": "lecture_notes",
+    "text": "today's lecture covers algorithms data structures slides learning objectives course module"
+  },
+  {
+    "label": "lecture_notes",
+    "text": "notes from class include definitions examples practice problems and key ideas for exam review"
+  },
+  {
+    "label": "assignment",
+    "text": "homework assignment submit due date instructions requirements rubric points problem set implementation"
+  },
+  {
+    "label": "assignment",
+    "text": "project specification deliverables grading criteria upload to blackboard source code README due"
+  },
+  {
+    "label": "assignment",
+    "text": "programming assignment write a function test cases required output input constraints"
+  },
+  {
+    "label": "article",
+    "text": "abstract introduction research study analysis conclusion references findings discussion publication journal"
+  },
+  {
+    "label": "article",
+    "text": "this article argues that evidence suggests a trend based on data and prior research"
+  },
+  {
+    "label": "article",
+    "text": "research paper methodology results literature review citation experiment conclusion future work"
+  }
+]
